@@ -14,7 +14,7 @@ credits: true
 
 ## About the Collection
 
-This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
+This site is generated for the Polytechnic University of The Philippines - Maragondon Campus "Library Learning Resource Center" from: 
 
 - a CSV of collection metadata
 - a folder of JPG images or PDF documents
